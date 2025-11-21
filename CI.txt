@@ -1,1 +1,3 @@
 Continous intergration
+
+All the cases are success
